@@ -215,5 +215,5 @@ Special thanks to all contributors who help maintain and improve this repository
 <div align="center">
   <sub>Built with ❤️ by the cybersecurity community</sub>
   <br/>
-  <sub>© 2024 Gracker AI. All rights reserved.</sub>
+  <sub>© 2025 Gracker AI. All rights reserved.</sub>
 </div>
